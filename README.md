@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/72720f8b-11b3-4401-af36-cf193445cb41.svg)](https://wakatime.com/@72720f8b-11b3-4401-af36-cf193445cb41)
 <!--
 **UsaidZenkoders/UsaidZenkoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
